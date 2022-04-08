@@ -1,0 +1,86 @@
+
+.cards {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+body.header {
+    background-color: #058324;
+}
+
+
+.cards {
+    background: radial-gradient(rgb(48, 43, 43), #0d3ba08c);
+    padding: 50px;
+}
+section.container-fluid {
+    margin-top: 50px;
+}
+
+
+.add {
+    padding: 0 37%;
+}
+.heart {
+    DISPLAY: flex;
+    justify-content: SPACE-BETWEEN;
+}
+
+.\+- {
+    DISPLAY: FLEX;
+    justify-content: SPACE-BETWEEN;
+}
+.total {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+}
+.heart {
+    margin-bottom: 50;
+}
+.total {
+    font-size: large;
+    font-weight: bold;
+}
+
+.quantity {
+    width: 10px;
+}
+.prix {
+    width: 50px;
+}
+
+span.pi {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+span.pi {
+    padding: 20 0;
+}
+
+.add {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+p {
+    font-size: 1.9rem;
+}
+p {
+    margin-top: 6px;
+    margin-left: 2px;
+    margin-bottom: -2rem;
+}
+
+.home-main-section{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    flex-grow: 1;
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
